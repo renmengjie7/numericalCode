@@ -1,4 +1,7 @@
 # 24数码的A*解决
+## 环境
+JDK8
+IntelliJ IDEA
 ## 功能
 1、通过A*算法求解二十四数码问题
 2、实现可视化界面、能够动画显示解题过程
@@ -10,4 +13,7 @@
 1.使用一个二维数组来记录可行的移动方式，即{{0,1},{0,-1},{1,0},{-1,0}}
 2.PT表中节点的结构可以记录为（当前八数码状态数组，移动的步骤数组，down）
 3.使用JAVA自带的ArrayList来创建PT表，基于ArrayList，有造了几个函数。isMin来判断是不是最小的，getMin来获得down最小的节点，delete来删除down大于up的节点（循环判断，在其中调用了remove函数）
+
 ## 实验结果
+![image](https://user-images.githubusercontent.com/70495062/126855735-51d99eec-9760-4e76-9bb9-25153730ded8.png)
+![image](https://user-images.githubusercontent.com/70495062/126855736-f44d9c97-5a8e-461c-bd77-bd08ee6d0889.png)
