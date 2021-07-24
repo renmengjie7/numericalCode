@@ -27,3 +27,6 @@ IntelliJ IDEA
 ## 实验结果
 ![image](https://user-images.githubusercontent.com/70495062/126855735-51d99eec-9760-4e76-9bb9-25153730ded8.png)
 ![image](https://user-images.githubusercontent.com/70495062/126855736-f44d9c97-5a8e-461c-bd77-bd08ee6d0889.png)
+
+![image](https://user-images.githubusercontent.com/70495062/126855819-1240931f-b691-4f27-a655-d3c115ea14a8.png)
+![image](https://user-images.githubusercontent.com/70495062/126855820-d5ba7489-a944-4860-be4b-f68f8145f560.png)
